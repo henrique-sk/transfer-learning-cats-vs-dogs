@@ -2,9 +2,9 @@
 
 This project is a challenge proposed in the course "Treinamento de Redes Neurais com Transfer Learning" of the Bootcamp "Geração Tech Unimed-BH - Ciência de Dados" of the DIO (Digital Innovation One) platform.
 
-*All the material developed during the classes can be found [here](https://github.com/henrique-sk/Ciencia_de_Dados-DIO-Geracao_Tech_Unimed_BH).*
+See the project in Google Colab [here](https://colab.research.google.com/github/henrique-sk/transfer-learning-cats-vs-dogs/blob/main/transfer_learning_cats_vs_dogs.ipynb).
 
-See the project [here](https://colab.research.google.com/github/henrique-sk/transfer-learning-cats-vs-dogs/blob/main/transfer_learning_cats_vs_dogs.ipynb).
+*All the material developed during the classes can be found [here](https://github.com/henrique-sk/Ciencia_de_Dados-DIO-Geracao_Tech_Unimed_BH).*
 
 ## Instalation
 
